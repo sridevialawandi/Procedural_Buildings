@@ -1,3 +1,4 @@
 # Procedural_Buildings
 
-![PB](https://user-images.githubusercontent.com/69338116/170576911-123883cd-04d9-4ed1-a406-1458136069c0.jpeg)
+<img width="506" alt="PBs" src="https://user-images.githubusercontent.com/69338116/170577145-7ea6cd63-656e-47ab-9ef8-e5830782387b.png">
+
